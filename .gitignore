@@ -1,6 +1,5 @@
 # Prerequisites
 *.d
-build/*
 .ccls-cache/
 
 # Compiled Object files
