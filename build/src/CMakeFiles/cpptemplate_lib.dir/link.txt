@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcpptemplate_lib.a  CMakeFiles/cpptemplate_lib.dir/example.cpp.o CMakeFiles/cpptemplate_lib.dir/main.cpp.o
-/usr/bin/ranlib libcpptemplate_lib.a
