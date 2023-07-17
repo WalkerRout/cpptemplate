@@ -1,2 +1,0 @@
-C:\TDM-GCC-64\bin\ar.exe qc libcpptemplate_lib.a CMakeFiles/cpptemplate_lib.dir/example.cpp.obj CMakeFiles/cpptemplate_lib.dir/main.cpp.obj
-C:\TDM-GCC-64\bin\ranlib.exe libcpptemplate_lib.a

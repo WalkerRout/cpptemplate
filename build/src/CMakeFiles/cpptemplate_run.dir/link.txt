@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cpptemplate_run.dir/objects.a
-C:\TDM-GCC-64\bin\ar.exe qc CMakeFiles\cpptemplate_run.dir/objects.a @CMakeFiles\cpptemplate_run.dir\objects1.rsp
-C:\msys64\mingw64\bin\g++.exe  -Wall -Wextra -Wpedantic -Werror -O1 -Wl,--whole-archive CMakeFiles\cpptemplate_run.dir/objects.a -Wl,--no-whole-archive -o cpptemplate_run.exe -Wl,--out-implib,libcpptemplate_run.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cpptemplate_run.dir\linklibs.rsp
