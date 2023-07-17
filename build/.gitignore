@@ -1,2 +1,3 @@
 * # ignore all files in build/
+!/
 !.gitignore # keep build/

@@ -12,13 +12,13 @@ set(CMAKE_CXX_STANDARD 20)
 # I../include
 # L../lib
 include_directories(include)
+include_directories(lib)
 include_directories(src)
 
 add_subdirectory(src)
 add_subdirectory(test)
+add_subdirectory(bench)
+
 add_subdirectory(lib/googletest)
+
 link_directories(lib)
-
-#file(GLOB_RECURSE SOURCES LIST_DIRECTORIES true *.cpp)
-
-#add_executable(${EXEC} ${SOURCES})
