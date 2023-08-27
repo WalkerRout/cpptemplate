@@ -1,5 +1,5 @@
 # cpptemplate
-## This repository functions as a starting point for any C++ projects
+## This repository functions as a starting point for any C++ project
 ### It features:
 > * Unit/Integration tests (GoogleTest) <br>
 > * Benchmarks (Criterion) <br>
