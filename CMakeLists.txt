@@ -3,9 +3,6 @@ cmake_minimum_required(VERSION 3.5.1)
 # project name
 project(cpptemplate)
 
-# creates the variable EXEC and sets it to hello
-set(EXEC cpptemplate)
-
 # set the C++20 standard
 set(CMAKE_CXX_STANDARD 20)
 
